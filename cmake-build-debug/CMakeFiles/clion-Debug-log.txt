@@ -1,0 +1,13 @@
+"D:\Application\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Application/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Files\Git_Hub\Flight_Reservation_System -B D:\Files\Git_Hub\Flight_Reservation_System\cmake-build-debug
+-- Configuring done (0.0s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    C:/Users/arday/Desktop/main.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: Flight_Reservation_System
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
