@@ -7,4 +7,6 @@ add_executable(Flight_Reservation_System
         main.cpp
         C:/Users/arday/Desktop/main.cpp
         C:/Users/arday/Desktop/arda.cpp
-        arda.cpp)
+        arda.cpp
+        ReservationSystem.cpp
+        ReservationSystem.h)
